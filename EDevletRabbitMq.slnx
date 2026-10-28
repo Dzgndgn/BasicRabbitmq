@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="EDevlet.Document.Common/EDevlet.Document.Common.csproj" />
+  <Project Path="EDevlet.Document.Creator/EDevlet.Document.Creator.csproj" Id="be0b844e-3474-41b8-a2a2-7922e885c3de" />
+  <Project Path="EDevlet.Document.Request/EDevlet.Document.Request.csproj" Id="862f86df-586d-41db-aa56-56a5d386e354" />
+</Solution>
